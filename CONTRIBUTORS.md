@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jack Nyange](https://github.com/Jacknyange)
+- Place: San Francisco, United States
+- Bio: Student
+- Github: [Jacknyange](https://github.com/jacknyange)
